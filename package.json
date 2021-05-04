@@ -1,0 +1,15 @@
+{
+  "name": "wav3y",
+  "version": "0.0.1",
+  "main": "index.ts",
+  "author": "Mark Thomas",
+  "license": "NONE",
+  "private": true,
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "devDependencies": {
+    "snowpack": "^3.3.7"
+  }
+}
